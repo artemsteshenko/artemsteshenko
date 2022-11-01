@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2CABF7&width=435&lines=Hi!+I'm+a+Artem)](https://git.io/typing-svg)
 ### Artem Steshenko 👋
-- BCs in Data Science at HSE
-- Work in DS since 2020
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- BCs in Data Science at HSE. 
+- Work in DS since 2020. 
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
