@@ -6,8 +6,6 @@
 - BCs in Data Science at HSE. 
 - Work in DS since 2020. 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=steshenko_artem&theme=dark)](https://github.com/steshenko_artem/leetcode-stats)
-
 ![](https://leetcard.jacoblin.cool/steshenko_artem?animation=false)
 
 
